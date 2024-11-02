@@ -2,7 +2,7 @@
 
 *Handling, Operating, Revolutionizing & Optimizing For You*  
 
-At At Horofy, we're all about creating powerful software to make life easier and business smoother. From productivity tools to specialized softwares for management, e-commerce, education, healthcare, finance, content, and more, we've got something for everyone—individuals, startups, and big companies alike. We also offer Software solutions for a variety of needs, like custom software, automation, and mobile/web apps across different domains.
+At Horofy, we're all about creating software to make life easier and business smoother. From productivity tools to specialized solutions in management, e-commerce, education, healthcare, finance, content creation, and more, we offer something for everyone—individuals, startups, and large companies alike. We also provide a range of software services, including custom software development, automation, and mobile/web app development across different domains.
 
 ---
 
