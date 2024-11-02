@@ -6,7 +6,7 @@ At At Horofy, we're all about creating powerful software to make life easier and
 
 ---
 
-### **Software Solutions**
+### **Softwares**
 
 **Productivity**  
 - **TaskMate**: Task management app for organized task tracking, prioritization, and deadlines.  
@@ -52,8 +52,8 @@ At At Horofy, we're all about creating powerful software to make life easier and
 
 ---
 
-### **IT Services**  
-We offer tailored IT solutions across various industries, supporting automation and custom software development. Our services include:  
+### **Software Solutions**  
+We offer tailored Software solutions across various industries, supporting automation and custom software development. Our services include:  
 - **Automation**  
 - **Custom Software Development**  
 - **Static Websites**  
