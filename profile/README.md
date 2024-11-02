@@ -10,7 +10,7 @@ At Horofy, we're all about creating software to make life easier and business sm
 
 **Productivity**  
 - **TaskMate**: Task management app for organized task tracking, prioritization, and deadlines.  
-- **ToDo**: Intuitive to-do list for managing daily tasks and goals.  
+- **Todoly**: Intuitive to-do list for managing daily tasks and goals.  
 - **Clocky**: Time-tracking tool for productivity insights and time management.  
 - **Desto**: Collaborative roadmap tool for project visualization and tracking.  
 
@@ -26,7 +26,7 @@ At Horofy, we're all about creating software to make life easier and business sm
 **Healthcare**  
 - **Qeoro**: Comprehensive health platform for appointments, pharmacy management, and lab bookings.  
 - **MedRec**: Electronic health records system for patient data management.  
-- **PharmaTo**: Inventory and order management for pharmacies.  
+- **Pharmato**: Inventory and order management for pharmacies.  
 
 **Content & Marketing**  
 - **Kontator**: AI-powered content creation for blogs, social media, and more.  
